@@ -2,5 +2,9 @@
 Flutter config --enable-web
 Flutter run -d chrome
 
-
+## Branch & Commit 
+- git checkout feature/home-screen
+- git add .
+- git commit -m "feat: add Hello, OOP! home screen"
+- git push
 
